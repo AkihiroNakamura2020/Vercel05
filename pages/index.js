@@ -364,7 +364,7 @@ async function handleOnAuthOut(e) {
             {flagerror && (
               <div>
                 <Typography variant="h4" component="h1" gutterBottom>
-                error: we can't find who you look for.Please check the name.
+                error: we cannot find who you look for.Please check the name.
                 </Typography> 
                 </div>
           )}
